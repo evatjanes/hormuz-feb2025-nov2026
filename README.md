@@ -26,3 +26,8 @@ To reproduce or modify the visualization locally:
 1. Install the required Python libraries:
    ```bash
    pip install pandas plotly
+
+## Sources & Citation
+
+- **Transit Data:** IMF PortWatch. (2026). *Strait of Hormuz daily transits, 28 February 2025–8 November 2026* [Data set]. Straits. https://straits.live/data © IMF PortWatch.
+- **Event Timeline:** Compiled from Wikipedia (*2026 Strait of Hormuz crisis*) and `straits.live` daily briefs.
